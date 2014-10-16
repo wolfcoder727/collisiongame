@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# october15
+#
+
+projectname: october15
+vendorid: com.mycompany
+mainmodule: com.mycompany.october15
